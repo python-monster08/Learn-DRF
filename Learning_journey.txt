@@ -1,0 +1,13 @@
+0. learn_DRF: Serialization
+1. Project1: Deserialization
+2. CRUD_Operation
+3. classBasedCRUDApi
+4. tut_validation
+5.tut_SerializerModelClass
+6.SerializerModelClassValid
+7. functionBased_api_view
+8. CRUD_Using_api_view
+9. BrowseableApiTest
+10. ClassBased_api_view
+11. GenericAPIView
+12. 
